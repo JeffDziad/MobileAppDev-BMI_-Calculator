@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI_ Calculator.Android", "BMI_ Calculator.Android\BMI_ Calculator.Android.csproj", "{DBE0008B-3414-4D61-AD33-52809F9973B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI_ Calculator", "BMI_ Calculator\BMI_ Calculator.csproj", "{8DCF9AAD-A8D8-4458-B6D5-2287411C6739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE0008B-3414-4D61-AD33-52809F9973B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE0008B-3414-4D61-AD33-52809F9973B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE0008B-3414-4D61-AD33-52809F9973B4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DBE0008B-3414-4D61-AD33-52809F9973B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE0008B-3414-4D61-AD33-52809F9973B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE0008B-3414-4D61-AD33-52809F9973B4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8DCF9AAD-A8D8-4458-B6D5-2287411C6739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCF9AAD-A8D8-4458-B6D5-2287411C6739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCF9AAD-A8D8-4458-B6D5-2287411C6739}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8DCF9AAD-A8D8-4458-B6D5-2287411C6739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCF9AAD-A8D8-4458-B6D5-2287411C6739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DCF9AAD-A8D8-4458-B6D5-2287411C6739}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AC82285-0FAF-4D44-8B6E-4E0849849F43}
+	EndGlobalSection
+EndGlobal
